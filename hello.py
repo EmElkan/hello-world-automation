@@ -1,5 +1,6 @@
 from main import *
 
+
 for iterations in range(1):
     try:
         windows_search('paint')
