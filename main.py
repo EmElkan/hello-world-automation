@@ -1,6 +1,7 @@
 import pyautogui
 import time
 
+
 def windows_search(text):
     search = None
     time_end = time.time() + 10
