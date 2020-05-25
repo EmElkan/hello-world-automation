@@ -1,0 +1,19 @@
+[2020.05.25] 18:45:36 - INFO [test_script] [<module>]: Script has begun
+[2020.05.25] 18:45:36 - DEBUG [main_module] [windows_search]: Looking for Windows search bar
+[2020.05.25] 18:45:37 - DEBUG [main_module] [windows_search]: Found Windows Search Bar
+[2020.05.25] 18:45:37 - DEBUG [main_module] [windows_open]: Looking for Open
+[2020.05.25] 18:45:39 - DEBUG [main_module] [windows_open]: Found Open
+[2020.05.25] 18:45:39 - DEBUG [main_module] [paint_blue]: Looking for blue
+[2020.05.25] 18:45:39 - DEBUG [main_module] [paint_blue]: Found blue
+[2020.05.25] 18:45:41 - DEBUG [main_module] [hello_h]: Completed letter h
+[2020.05.25] 18:45:42 - DEBUG [main_module] [hello_e]: Completed letter e
+[2020.05.25] 18:45:43 - DEBUG [main_module] [hello_l1]: Completed letter l1
+[2020.05.25] 18:45:44 - DEBUG [main_module] [hello_l2]: Completed letter l2
+[2020.05.25] 18:45:45 - DEBUG [main_module] [hello_o]: Completed letter o
+[2020.05.25] 18:45:45 - DEBUG [main_module] [paint_text]: Looking for Paint textbox
+[2020.05.25] 18:45:45 - DEBUG [main_module] [paint_text]: Found Paint textbox
+[2020.05.25] 18:45:48 - DEBUG [main_module] [windows_close]: Looking for x to close program
+[2020.05.25] 18:45:49 - DEBUG [main_module] [windows_close]: Found x
+[2020.05.25] 18:45:49 - DEBUG [main_module] [windows_dont_save]: Looking for Don't Save
+[2020.05.25] 18:45:49 - DEBUG [main_module] [windows_dont_save]: Found Don't Save
+[2020.05.25] 18:45:49 - INFO [test_script] [<module>]: Script has finished
